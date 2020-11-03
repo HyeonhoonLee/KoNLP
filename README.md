@@ -1,2 +1,2 @@
 # KoNLP 
-Github repo for developing the optimized Natural Language Processing Model for Korean Language.
+Github repo to develop the optimized Natural Language Processing Model for Korean Language.
