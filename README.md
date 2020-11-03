@@ -1,1 +1,1 @@
-# OSAM_NLP
+# KoNLP is the github repo for developing the optimized Natural Language Processing Model for Korean Language
